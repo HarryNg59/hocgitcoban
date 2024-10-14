@@ -3,3 +3,7 @@
 # abc/ahihi.md an ahihi.md nam trong abc
 # abc/*.md an toan bo file md nam trong abc
 abc/
+
+# Comment
+node_modules/
+.logs
